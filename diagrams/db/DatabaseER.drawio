@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T06:28:50.235Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="_5rDdxyc0dZtmm6mI-0f" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-01T06:30:12.392Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="jDhMPjy-iNWfsJioA1Zz" version="21.2.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="EduCare ER Diagram">
     <mxGraphModel dx="1837" dy="3197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -518,8 +518,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rSawy4DsWAiongRTV620-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rSawy4DsWAiongRTV620-21" target="qAD9C6_yxENJScpzOMfn-64">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rSawy4DsWAiongRTV620-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rSawy4DsWAiongRTV620-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2140" y="-1540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1430" y="-1470" />
+              <mxPoint x="2140" y="-1470" />
+              <mxPoint x="2140" y="-1540" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="rSawy4DsWAiongRTV620-21" value="OWNS" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1390" y="-1610" width="80" height="80" as="geometry" />
@@ -635,6 +642,9 @@
         <mxCell id="rSawy4DsWAiongRTV620-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rSawy4DsWAiongRTV620-58" target="rSawy4DsWAiongRTV620-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="rSawy4DsWAiongRTV620-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rSawy4DsWAiongRTV620-58" target="qAD9C6_yxENJScpzOMfn-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rSawy4DsWAiongRTV620-58" value="HAS A" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="895" y="-650" width="80" height="80" as="geometry" />
         </mxCell>
@@ -648,7 +658,7 @@
         <mxCell id="rSawy4DsWAiongRTV620-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rSawy4DsWAiongRTV620-69" target="rSawy4DsWAiongRTV620-40">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1206" y="-610" />
+              <mxPoint x="1206" y="-640" />
             </Array>
           </mxGeometry>
         </mxCell>
