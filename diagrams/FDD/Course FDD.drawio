@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T06:44:19.635Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="cDlrCYrAPdV-3qQfN4er" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T06:49:47.990Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Gn1d8mGE0AgvxILd9hcy" version="21.2.9" type="github">
   <diagram name="Page-1" id="G4DodcpcyrsFpDxfH78B">
     <mxGraphModel dx="1194" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,20 +16,64 @@
         <mxCell id="oTusDJXpcAcT87zP5PXx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oTusDJXpcAcT87zP5PXx-1" target="oTusDJXpcAcT87zP5PXx-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="oTusDJXpcAcT87zP5PXx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oTusDJXpcAcT87zP5PXx-1" target="oTusDJXpcAcT87zP5PXx-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oTusDJXpcAcT87zP5PXx-1" value="Course" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="475" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oTusDJXpcAcT87zP5PXx-2" value="Create Course" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oTusDJXpcAcT87zP5PXx-4" value="Update Course" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="298" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oTusDJXpcAcT87zP5PXx-5" value="Delete Course" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="475" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oTusDJXpcAcT87zP5PXx-6" value="Get Course Details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="653" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oTusDJXpcAcT87zP5PXx-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oTusDJXpcAcT87zP5PXx-10" target="oTusDJXpcAcT87zP5PXx-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oTusDJXpcAcT87zP5PXx-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oTusDJXpcAcT87zP5PXx-10" target="oTusDJXpcAcT87zP5PXx-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oTusDJXpcAcT87zP5PXx-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oTusDJXpcAcT87zP5PXx-10" target="oTusDJXpcAcT87zP5PXx-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oTusDJXpcAcT87zP5PXx-10" value="Add an entity to the course" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oTusDJXpcAcT87zP5PXx-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oTusDJXpcAcT87zP5PXx-13" target="oTusDJXpcAcT87zP5PXx-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oTusDJXpcAcT87zP5PXx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oTusDJXpcAcT87zP5PXx-13" target="oTusDJXpcAcT87zP5PXx-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oTusDJXpcAcT87zP5PXx-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oTusDJXpcAcT87zP5PXx-13" target="oTusDJXpcAcT87zP5PXx-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oTusDJXpcAcT87zP5PXx-13" value="Add a user to the course" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oTusDJXpcAcT87zP5PXx-16" value="Add a Student&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oTusDJXpcAcT87zP5PXx-17" value="Add an Editor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oTusDJXpcAcT87zP5PXx-18" value="Add an Owner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oTusDJXpcAcT87zP5PXx-22" value="Add a Task to the course" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oTusDJXpcAcT87zP5PXx-24" value="Add a Resource to the course" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
