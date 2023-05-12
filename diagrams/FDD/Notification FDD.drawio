@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" modified="2023-05-12T15:39:40.546Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="wp1-iuFZopzq2EtDgDZK" version="21.2.9" type="github">
+  <diagram name="Page-1" id="5M-BfB7eemBwDIA6HlBg">
+    <mxGraphModel dx="1434" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="a9fGRJdRqabGo_8mYo_c-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a9fGRJdRqabGo_8mYo_c-1" target="a9fGRJdRqabGo_8mYo_c-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a9fGRJdRqabGo_8mYo_c-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a9fGRJdRqabGo_8mYo_c-1" target="a9fGRJdRqabGo_8mYo_c-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a9fGRJdRqabGo_8mYo_c-1" value="Notification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a9fGRJdRqabGo_8mYo_c-2" value="Send Notification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a9fGRJdRqabGo_8mYo_c-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a9fGRJdRqabGo_8mYo_c-15" target="a9fGRJdRqabGo_8mYo_c-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a9fGRJdRqabGo_8mYo_c-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a9fGRJdRqabGo_8mYo_c-15" target="a9fGRJdRqabGo_8mYo_c-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a9fGRJdRqabGo_8mYo_c-15" value="Add entity to Notification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a9fGRJdRqabGo_8mYo_c-16" value="Add User to Notification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="665" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a9fGRJdRqabGo_8mYo_c-17" value="Add Task to Notification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="665" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
