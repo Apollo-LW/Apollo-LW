@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T15:15:30.965Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.2.9" etag="Vwkg1jTSVsgPoJdibp-c" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-12T15:19:39.311Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ihB38Del5uG44GqLu2PI" version="21.2.9" type="github">
   <diagram name="Page-1" id="co1IvbsGRvJRBiFSk-zs">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-gm8SZ_vyrdVWSaBe4xr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gm8SZ_vyrdVWSaBe4xr-1" target="-gm8SZ_vyrdVWSaBe4xr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gm8SZ_vyrdVWSaBe4xr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gm8SZ_vyrdVWSaBe4xr-1" target="-gm8SZ_vyrdVWSaBe4xr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gm8SZ_vyrdVWSaBe4xr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gm8SZ_vyrdVWSaBe4xr-1" target="-gm8SZ_vyrdVWSaBe4xr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gm8SZ_vyrdVWSaBe4xr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gm8SZ_vyrdVWSaBe4xr-1" target="-gm8SZ_vyrdVWSaBe4xr-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gm8SZ_vyrdVWSaBe4xr-1" value="Institution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-gm8SZ_vyrdVWSaBe4xr-2" value="Create Institution&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-gm8SZ_vyrdVWSaBe4xr-3" value="Update Institution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-gm8SZ_vyrdVWSaBe4xr-4" value="Delete Institution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-gm8SZ_vyrdVWSaBe4xr-5" value="Get Institution Details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
