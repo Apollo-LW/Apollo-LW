@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T15:23:58.314Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="gk5my6KYmaL6WRwKVGIq" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-12T15:25:25.614Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="HgjOTOW37V9gIrkHasFo" version="21.2.9" type="github">
   <diagram name="Page-1" id="co1IvbsGRvJRBiFSk-zs">
     <mxGraphModel dx="1434" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,8 +43,17 @@
         <mxCell id="-gm8SZ_vyrdVWSaBe4xr-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gm8SZ_vyrdVWSaBe4xr-10" target="-gm8SZ_vyrdVWSaBe4xr-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-gm8SZ_vyrdVWSaBe4xr-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gm8SZ_vyrdVWSaBe4xr-10" target="-gm8SZ_vyrdVWSaBe4xr-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gm8SZ_vyrdVWSaBe4xr-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gm8SZ_vyrdVWSaBe4xr-10" target="-gm8SZ_vyrdVWSaBe4xr-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gm8SZ_vyrdVWSaBe4xr-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gm8SZ_vyrdVWSaBe4xr-10" target="-gm8SZ_vyrdVWSaBe4xr-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-gm8SZ_vyrdVWSaBe4xr-10" value="Add entity to Instituion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-gm8SZ_vyrdVWSaBe4xr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gm8SZ_vyrdVWSaBe4xr-11" target="-gm8SZ_vyrdVWSaBe4xr-14">
           <mxGeometry relative="1" as="geometry" />
@@ -56,22 +65,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-gm8SZ_vyrdVWSaBe4xr-11" value="Add User to institution&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="830" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-gm8SZ_vyrdVWSaBe4xr-14" value="Add Owner to institution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="830" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-gm8SZ_vyrdVWSaBe4xr-16" value="Add Editor to institution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-gm8SZ_vyrdVWSaBe4xr-18" value="Add User to institution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1127" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="987" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-gm8SZ_vyrdVWSaBe4xr-26" value="Add Parent Institution to institution&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-gm8SZ_vyrdVWSaBe4xr-27" value="Add Child Institution to institution&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-gm8SZ_vyrdVWSaBe4xr-30" value="Add Course to institution&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-gm8SZ_vyrdVWSaBe4xr-31" value="Add Task to institution&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-gm8SZ_vyrdVWSaBe4xr-32" value="Add Resource to institution&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
