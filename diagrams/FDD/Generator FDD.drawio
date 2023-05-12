@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T18:23:11.166Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.0" etag="cPWAr_IBBqWiRFAADl-Y" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-12T18:44:48.371Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ssK3fnh0zi7qBHHpG7ng" version="21.3.0" type="github">
   <diagram name="Page-1" id="ZPn7-ziC5n54FtOVvfw-">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="swXxv4l775Pwu2XtdGhL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="swXxv4l775Pwu2XtdGhL-1" target="swXxv4l775Pwu2XtdGhL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="swXxv4l775Pwu2XtdGhL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="swXxv4l775Pwu2XtdGhL-1" target="swXxv4l775Pwu2XtdGhL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="swXxv4l775Pwu2XtdGhL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="swXxv4l775Pwu2XtdGhL-1" target="swXxv4l775Pwu2XtdGhL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="swXxv4l775Pwu2XtdGhL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="swXxv4l775Pwu2XtdGhL-1" target="swXxv4l775Pwu2XtdGhL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="swXxv4l775Pwu2XtdGhL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="swXxv4l775Pwu2XtdGhL-1" target="swXxv4l775Pwu2XtdGhL-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="swXxv4l775Pwu2XtdGhL-1" value="Generator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="swXxv4l775Pwu2XtdGhL-2" value="Add Resource to Generator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="13" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="swXxv4l775Pwu2XtdGhL-4" value="Generate Questions from Resource(s)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="183" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="swXxv4l775Pwu2XtdGhL-6" value="Generate Summaries from Resource(s)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="swXxv4l775Pwu2XtdGhL-8" value="Generate Schedule from Task(s)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="523" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="swXxv4l775Pwu2XtdGhL-11" value="Generate Text2Speech from Resource(s)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="694" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
