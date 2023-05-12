@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T15:19:39.311Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ihB38Del5uG44GqLu2PI" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-12T15:23:37.939Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="WmP1D-NOgJrCQg-szJvW" version="21.2.9" type="github">
   <diagram name="Page-1" id="co1IvbsGRvJRBiFSk-zs">
     <mxGraphModel dx="1434" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,20 +16,50 @@
         <mxCell id="-gm8SZ_vyrdVWSaBe4xr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gm8SZ_vyrdVWSaBe4xr-1" target="-gm8SZ_vyrdVWSaBe4xr-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-gm8SZ_vyrdVWSaBe4xr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gm8SZ_vyrdVWSaBe4xr-1" target="-gm8SZ_vyrdVWSaBe4xr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-gm8SZ_vyrdVWSaBe4xr-1" value="Institution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="274" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-gm8SZ_vyrdVWSaBe4xr-2" value="Create Institution&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-gm8SZ_vyrdVWSaBe4xr-3" value="Update Institution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-gm8SZ_vyrdVWSaBe4xr-4" value="Delete Institution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-gm8SZ_vyrdVWSaBe4xr-5" value="Get Institution Details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-gm8SZ_vyrdVWSaBe4xr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gm8SZ_vyrdVWSaBe4xr-10" target="-gm8SZ_vyrdVWSaBe4xr-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gm8SZ_vyrdVWSaBe4xr-10" value="Add entity to Instituion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-gm8SZ_vyrdVWSaBe4xr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gm8SZ_vyrdVWSaBe4xr-11" target="-gm8SZ_vyrdVWSaBe4xr-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gm8SZ_vyrdVWSaBe4xr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gm8SZ_vyrdVWSaBe4xr-11" target="-gm8SZ_vyrdVWSaBe4xr-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gm8SZ_vyrdVWSaBe4xr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-gm8SZ_vyrdVWSaBe4xr-11" target="-gm8SZ_vyrdVWSaBe4xr-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-gm8SZ_vyrdVWSaBe4xr-11" value="Add User to institution&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-gm8SZ_vyrdVWSaBe4xr-14" value="Add Owner to institution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-gm8SZ_vyrdVWSaBe4xr-16" value="Add Editor to institution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-gm8SZ_vyrdVWSaBe4xr-18" value="Add User to institution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1127" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
