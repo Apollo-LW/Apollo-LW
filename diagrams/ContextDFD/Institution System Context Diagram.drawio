@@ -1,9 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2023-05-20T15:57:19.918Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.2" etag="rcu27v5fCZuFvgzsPYso" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-20T16:01:28.178Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="UQPA7sdqstysyAV2VVn4" version="21.3.2" type="github">
   <diagram name="Page-1" id="tcobVfCXmn407HPpuTyI">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fyC7D2IF4pgFKI7wAtkj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fyC7D2IF4pgFKI7wAtkj-4" target="fyC7D2IF4pgFKI7wAtkj-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fyC7D2IF4pgFKI7wAtkj-3" value="Institution Details" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fyC7D2IF4pgFKI7wAtkj-2">
+          <mxGeometry x="-0.2273" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fyC7D2IF4pgFKI7wAtkj-4" value="Institution&amp;nbsp; Service" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="229" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fyC7D2IF4pgFKI7wAtkj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fyC7D2IF4pgFKI7wAtkj-13" target="fyC7D2IF4pgFKI7wAtkj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fyC7D2IF4pgFKI7wAtkj-6" value="Create Institution&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fyC7D2IF4pgFKI7wAtkj-5">
+          <mxGeometry x="-0.031" relative="1" as="geometry">
+            <mxPoint y="24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fyC7D2IF4pgFKI7wAtkj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fyC7D2IF4pgFKI7wAtkj-13" target="fyC7D2IF4pgFKI7wAtkj-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="479" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fyC7D2IF4pgFKI7wAtkj-8" value="Update Institution" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fyC7D2IF4pgFKI7wAtkj-7">
+          <mxGeometry x="-0.6868" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fyC7D2IF4pgFKI7wAtkj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fyC7D2IF4pgFKI7wAtkj-13" target="fyC7D2IF4pgFKI7wAtkj-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="539" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fyC7D2IF4pgFKI7wAtkj-10" value="Delete Institution" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fyC7D2IF4pgFKI7wAtkj-9">
+          <mxGeometry x="-0.5685" y="3" relative="1" as="geometry">
+            <mxPoint y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fyC7D2IF4pgFKI7wAtkj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fyC7D2IF4pgFKI7wAtkj-13" target="fyC7D2IF4pgFKI7wAtkj-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="619" y="240" />
+              <mxPoint x="619" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fyC7D2IF4pgFKI7wAtkj-12" value="Add Entity to Institution" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fyC7D2IF4pgFKI7wAtkj-11">
+          <mxGeometry x="-0.4158" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fyC7D2IF4pgFKI7wAtkj-13" value="Owner/Editor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="429" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fyC7D2IF4pgFKI7wAtkj-14" value="User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="209" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
