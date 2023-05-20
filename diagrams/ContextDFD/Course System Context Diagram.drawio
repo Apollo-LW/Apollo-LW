@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-20T15:43:25.722Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="HO5BMypN--8qj4V5zxVj" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-20T15:43:47.161Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="B_E1rjW6T2dKw_3Xha1j" version="21.3.2" type="github">
   <diagram name="Page-1" id="Zp9yvOHxub2R6PVDsfeA">
     <mxGraphModel dx="1195" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,7 +63,7 @@
         <mxCell id="aM30kCij7jtUIuJesH1f-3" value="Teacher" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aM30kCij7jtUIuJesH1f-12" value="User/Student" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aM30kCij7jtUIuJesH1f-12" value="User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
