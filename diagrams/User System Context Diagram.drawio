@@ -1,9 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2023-05-20T15:20:24.593Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.0" etag="I8Uv_QFD9QfxBseMNQ34" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-20T15:27:19.923Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="rHWD0I9FgDQ7w7hMl9dn" version="21.3.0" type="github">
   <diagram name="Page-1" id="XuIpH6tI24n9b6IJmCxO">
-    <mxGraphModel>
+    <mxGraphModel dx="1195" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yYFLEdnjDPr8R14j7cF6-2" value="User Service" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="369" y="380" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yYFLEdnjDPr8R14j7cF6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yYFLEdnjDPr8R14j7cF6-3" target="yYFLEdnjDPr8R14j7cF6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yYFLEdnjDPr8R14j7cF6-5" value="Create Profile" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yYFLEdnjDPr8R14j7cF6-4">
+          <mxGeometry x="-0.5833" y="3" relative="1" as="geometry">
+            <mxPoint x="21" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYFLEdnjDPr8R14j7cF6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yYFLEdnjDPr8R14j7cF6-3" target="yYFLEdnjDPr8R14j7cF6-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYFLEdnjDPr8R14j7cF6-7" value="Update Profile" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yYFLEdnjDPr8R14j7cF6-6">
+          <mxGeometry x="0.1373" y="1" relative="1" as="geometry">
+            <mxPoint x="30" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYFLEdnjDPr8R14j7cF6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yYFLEdnjDPr8R14j7cF6-3" target="yYFLEdnjDPr8R14j7cF6-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="350" />
+              <mxPoint x="595" y="350" />
+              <mxPoint x="595" y="425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYFLEdnjDPr8R14j7cF6-9" value="Authenticate" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yYFLEdnjDPr8R14j7cF6-8">
+          <mxGeometry x="-0.2618" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYFLEdnjDPr8R14j7cF6-3" value="User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="487" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
