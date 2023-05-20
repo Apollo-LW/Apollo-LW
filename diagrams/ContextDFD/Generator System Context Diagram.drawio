@@ -1,0 +1,32 @@
+<mxfile host="app.diagrams.net" modified="2023-05-20T16:36:33.748Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="yZWVCQtwUHP7FiXq7mz1" version="21.3.2" type="github">
+  <diagram name="Page-1" id="ZSuanhP7EGacNlxVEqk-">
+    <mxGraphModel dx="1434" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VnHZ7a9inWrmDPMVAdLS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VnHZ7a9inWrmDPMVAdLS-1" target="VnHZ7a9inWrmDPMVAdLS-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VnHZ7a9inWrmDPMVAdLS-6" value="Results" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VnHZ7a9inWrmDPMVAdLS-5" vertex="1" connectable="0">
+          <mxGeometry x="-0.2844" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VnHZ7a9inWrmDPMVAdLS-1" value="Generator Service" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="204" y="470" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VnHZ7a9inWrmDPMVAdLS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VnHZ7a9inWrmDPMVAdLS-2" target="VnHZ7a9inWrmDPMVAdLS-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VnHZ7a9inWrmDPMVAdLS-4" value="Add resources to generator" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VnHZ7a9inWrmDPMVAdLS-3" vertex="1" connectable="0">
+          <mxGeometry x="-0.181" y="-2" relative="1" as="geometry">
+            <mxPoint x="28" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VnHZ7a9inWrmDPMVAdLS-2" value="User" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="504" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
