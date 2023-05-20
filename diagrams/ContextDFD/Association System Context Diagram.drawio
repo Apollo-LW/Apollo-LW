@@ -1,9 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2023-05-20T16:40:11.027Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.2" etag="sRNrJBWwLfw273RBEcS-" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-20T16:44:17.646Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="cuxHPo-c75GViWuML7g9" version="21.3.2" type="github">
   <diagram name="Page-1" id="qYGo0-Lq071ZFcQG3-WN">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EyocrItPaeY1db9hoIaG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EyocrItPaeY1db9hoIaG-10" target="EyocrItPaeY1db9hoIaG-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EyocrItPaeY1db9hoIaG-7" value="Query Relationships" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EyocrItPaeY1db9hoIaG-6">
+          <mxGeometry x="0.1" y="1" relative="1" as="geometry">
+            <mxPoint x="-37" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EyocrItPaeY1db9hoIaG-10" value="Association Service" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="810" y="570" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EyocrItPaeY1db9hoIaG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EyocrItPaeY1db9hoIaG-13" target="EyocrItPaeY1db9hoIaG-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="920" />
+              <mxPoint x="970" y="647" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EyocrItPaeY1db9hoIaG-12" value="Relationships between Entities&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EyocrItPaeY1db9hoIaG-11">
+          <mxGeometry x="-0.1313" y="-2" relative="1" as="geometry">
+            <mxPoint x="74" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EyocrItPaeY1db9hoIaG-13" value="Policy Engine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EyocrItPaeY1db9hoIaG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EyocrItPaeY1db9hoIaG-19" target="EyocrItPaeY1db9hoIaG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EyocrItPaeY1db9hoIaG-18" value="Get course resource" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EyocrItPaeY1db9hoIaG-17">
+          <mxGeometry x="-0.461" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EyocrItPaeY1db9hoIaG-19" value="Course Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EyocrItPaeY1db9hoIaG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EyocrItPaeY1db9hoIaG-22" target="EyocrItPaeY1db9hoIaG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EyocrItPaeY1db9hoIaG-21" value="Get users institutions" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EyocrItPaeY1db9hoIaG-20">
+          <mxGeometry x="-0.5291" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EyocrItPaeY1db9hoIaG-22" value="User Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EyocrItPaeY1db9hoIaG-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EyocrItPaeY1db9hoIaG-25" target="EyocrItPaeY1db9hoIaG-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="855" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EyocrItPaeY1db9hoIaG-24" value="Get institution teachers" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EyocrItPaeY1db9hoIaG-23">
+          <mxGeometry x="-0.0605" y="-3" relative="1" as="geometry">
+            <mxPoint x="3" y="-26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EyocrItPaeY1db9hoIaG-25" value="Institution Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="795" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
